@@ -1,0 +1,64 @@
+body {
+	background-color: gray;
+}
+
+div {
+	padding: 15px; 
+}
+
+.container {
+	background-color: black;
+	margin: 0 auto;
+	width: 500px;
+	border-radius: 5px;
+}
+
+.letter {
+	width: 20px;
+    height:20px;
+    margin: 6px;
+    float: left;
+    background-color: lightblue;
+    text-align: center;
+    font-size: 25px;
+    color: red;
+    display: none;
+}
+
+.start, .submit {
+	background-color: lightgray;
+	text-align: center;
+	width: 40%;
+	margin: 0 auto;
+	border-radius: 5px;
+	margin-top: 10px;
+}
+
+textarea {
+	width: 470px;
+	background-color: lightgray;
+	font-size: 20px;
+}
+
+.result {
+	background-color: gray;
+	width: 45%;
+	height: 30px;
+	font-size: 25px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.c {
+	width: 10%;
+	height: 20px;
+	color: white;
+	text-align: center;
+	float: right;
+	border: 1px white solid;
+	border-radius: 50px;
+	border-color: white;
+	padding: 1px;
+	margin-bottom: 10px;
+}
+
